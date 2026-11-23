@@ -22,6 +22,9 @@ stock-market-prediction/
 │   ├── market_direction_prediction.ipynb
 │   └── sentiment_corpus_generation.ipynb
 │
+├── presentation/
+│   └── Capstone project presentation PPT.pptx 
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -101,6 +104,10 @@ The text corpus consists of generated data rather than actual collected Twitter/
 - Statsmodels
 - NLTK
 - VADER
+
+## Project Presentation
+
+[View the project presentation (PPTX)](presentation/Capstone%20project%20presentation%20PPT.pptx)
 
 ## Project Limitations
 
