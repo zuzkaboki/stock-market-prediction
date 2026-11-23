@@ -9,6 +9,23 @@ The analysis uses historical financial data from 2019 to 2024 and applies statis
 
 The project also includes a sentiment analysis component using VADER to examine the sentiment of a generated Nifty 50-related text corpus.
 
+## Repository Structure
+
+```text
+stock-market-prediction/
+│
+├── data/
+│   ├── Master_data_Zuzana.csv
+│   └── Twitter_Nifty50_Corpus.txt
+│
+├── notebooks/
+│   ├── market_direction_prediction.ipynb
+│   └── sentiment_corpus_generation.ipynb
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 ## Objectives
 
 - Analyse historical financial market data.
